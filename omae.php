@@ -51,7 +51,7 @@ global $feed;
 echo $feed.NANI;
 }
 getName();
-//echo NANI;
+
 $str = "42.2";
 $int = 42;
 $sum = $str + $int;
