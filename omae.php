@@ -41,7 +41,7 @@ This is a good meme
 
 <p>
 <?php
-echo "NEW MODIF";
+echo "NEW MODIF v.48";
 $feed = "<strong> Omae wa mou shindeiru ! </strong>";
 define("NANI", "<strong> NANI !? </strong>");
 //echo('Hello World!');
